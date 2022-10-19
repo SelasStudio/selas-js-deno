@@ -1,4 +1,4 @@
-import { createClient, SupabaseClient } from "https://esm.sh/@supabase/supabase-js@2.0.0-rc.12";
+import { createClient, SupabaseClient } from "https://esm.sh/@supabase/supabase-js@2.0.2";
 
 export type Customer = {
   id?: string;
